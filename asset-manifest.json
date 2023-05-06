@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/t4t.gg-react/static/css/main.cafd0024.css",
+    "main.js": "/t4t.gg-react/static/js/main.c7b49391.js",
+    "index.html": "/t4t.gg-react/index.html",
+    "main.cafd0024.css.map": "/t4t.gg-react/static/css/main.cafd0024.css.map",
+    "main.c7b49391.js.map": "/t4t.gg-react/static/js/main.c7b49391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafd0024.css",
+    "static/js/main.c7b49391.js"
+  ]
+}
